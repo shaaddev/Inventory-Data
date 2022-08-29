@@ -1,0 +1,15 @@
+        Inventory Order Report
+
+Item#             Name            Reorder Amt
+1002            Milk-1L                   67
+1004           Eggs/Doz                   22
+1005             Coffee                   19
+1006          Spaghetti                   75
+1008           Flour-WW                   40
+1010        Juice-750ML                   50
+-----------------------------------------------
+
+               Statistics
+# Items to Reorder :                      273 
+Total cost of Reorder Items :         3829.90
+
